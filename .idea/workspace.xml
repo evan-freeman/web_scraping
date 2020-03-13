@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b81c380e-b7fe-4401-91a9-52cb6a05635f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="028c1379-366d-45e8-9bee-79c15d10ddb4" />
+  <component name="ProjectId" id="1Z55z4NasPy1ORgtyVL5Gqf2iCI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81c380e-b7fe-4401-91a9-52cb6a05635f" name="Default Changelist" comment="" />
+      <created>1584116373747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584116373747</updated>
+      <workItem from="1584116379735" duration="776000" />
+      <workItem from="1584117208374" duration="503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="212" key="FileChooserDialogImpl" timestamp="1584116737275">
+      <screen x="72" y="0" width="1296" height="912" />
+    </state>
+    <state x="501" y="212" key="FileChooserDialogImpl/72.0.1296.912@72.0.1296.912" timestamp="1584116737275" />
+    <state x="222" y="99" key="SettingsEditor" timestamp="1584117161838">
+      <screen x="72" y="0" width="1296" height="912" />
+    </state>
+    <state x="222" y="99" key="SettingsEditor/72.0.1296.912@72.0.1296.912" timestamp="1584117161838" />
+    <state x="393" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1584117210526">
+      <screen x="72" y="0" width="1296" height="912" />
+    </state>
+    <state x="393" y="280" key="com.intellij.ide.util.TipDialog/72.0.1296.912@72.0.1296.912" timestamp="1584117210526" />
+  </component>
+</project>
